@@ -1,0 +1,40 @@
+{
+  "author": {
+    "name": "Lane Rettig"
+  },
+  "bugs": {
+    "url": "https://github.com/lrettig/react-native-stripe/issues"
+  },
+  "dependencies": {},
+  "description": "React Native wrapper for native iOS Stripe SDK",
+  "devDependencies": {},
+  "directories": {},
+  "homepage": "https://github.com/lrettig/react-native-stripe",
+  "installable": true,
+  "keywords": [
+    "android",
+    "ios",
+    "login",
+    "native",
+    "react",
+    "react-component",
+    "react-native",
+    "sdk",
+    "stripe"
+  ],
+  "license": "MIT",
+  "main": "index",
+  "name": "react-native-stripe",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "react-native": ">=0.19"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lrettig/react-native-stripe"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.2.2"
+}
